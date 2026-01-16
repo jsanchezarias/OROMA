@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "experiences": "Opplevelser",
+    "hosts": "Dine Verter",
+    "packages": "Pakker",
+    "howItWorks": "Slik Fungerer Det",
+    "destinations": "Destinasjoner",
+    "apply": "Søk",
+    "begin": "Start Din Reise"
+  },
+  "hero": {
+    "badge": "LUKSUS • SELSKAP • UFORGLEMMELIG",
+    "title1": "Opplev Colombia",
+    "title2": "Med Perfekt Selskap",
+    "subtitle": "Kuraterte luksusopplevelser kombinert med fantastiske lokale følgesvenner som kjenner Colombia intimt.",
+    "description": "Vakre, sofistikerte verter • Private villaer • Eksklusiv tilgang • Intime øyeblikk • Ingen folkemengder, bare forbindelse.",
+    "cta1": "Start Din Reise",
+    "cta2": "Møt Dine Verter"
+  },
+  "difference": {
+    "title1": "Mer Enn Reise,",
+    "title2": "En Komplett Opplevelse",
+    "description": "OROMA kobler internasjonale reisende med fantastiske colombianske følgesvenner som gir autentisk lokal ekspertise, sofistikering og ekte forbindelse gjennom hele reisen din.",
+    "feature1Title": "Vakre Lokale Verter",
+    "feature1Desc": "Sofistikerte følgesvenner som virkelig kjenner Colombia",
+    "feature2Title": "Komplett Selskap",
+    "feature2Desc": "Fra middag til natteliv til private øyeblikk",
+    "feature3Title": "Luksusopplevelser",
+    "feature3Desc": "Private villaer, takterrasser, eksklusive steder",
+    "feature4Title": "Diskresjon Garantert",
+    "feature4Desc": "Privat, trygt og fullstendig konfidensielt"
+  },
+  "companions": {
+    "title1": "Dine Perfekte",
+    "title2": "Colombianske Følgesvenner",
+    "subtitle": "Vakre, intelligente og sofistikerte — våre nøye utvalgte verter er Colombias fineste. De vil vise deg landet gjennom lokale øyne, med varme, sjarm og ekte forbindelse.",
+    "category1Title": "NATTELIV-SPESIALISTER",
+    "category1Desc": "Din guide til Colombias mest eksklusive takterrasser, klubber og after-hours opplevelser",
+    "category2Title": "KULTUR-GUIDER",
+    "category2Desc": "Sofistikerte følgesvenner for gourmetmiddager, kunstgallerier og kulturelle opplevelser",
+    "category3Title": "WELLNESS & AVSLAPNING",
+    "category3Desc": "Private villa-opplevelser, spa-dager og intime øyeblikk med fullstendig avslapning",
+    "sectionTitle": "Hva Som Gjør Våre Følgesvenner Spesielle",
+    "quality1Title": "Naturlig Colombiansk Skjønnhet",
+    "quality1Desc": "Nøye utvalgt for eleganse, sjarm og ekte varme",
+    "quality2Title": "Flerspråklige & Kultiverte",
+    "quality2Desc": "Flytende i engelsk, verdensvante, utdannede, gode samtalepartnere",
+    "quality3Title": "Lokal Ekspertise",
+    "quality3Desc": "Født og oppvokst i Colombia, de kjenner hvert skjult perle",
+    "quality4Title": "Komplett Diskresjon",
+    "quality4Desc": "Profesjonelle, pålitelige og fullstendig konfidensielle"
+  },
+  "package": {
+    "title": "Den Komplette Pakken",
+    "subtitle": "Selskap, luksus og uforglemmelige opplevelser — alt kurert for deg.",
+    "feature1Title": "Vakre Følgesvenner",
+    "feature1Desc": "Fantastiske lokale verter som gir varme, sofistikering og ekte forbindelse",
+    "feature2Title": "Trygt & Diskret",
+    "feature2Desc": "Verifiserte verter, private overnattinger, fullstendig konfidensialitet, 24/7 støtte",
+    "feature3Title": "Luksusopplevelser",
+    "feature3Desc": "Private villaer, takterrasse-lounger, eksklusive restauranter, VIP natteliv-tilgang",
+    "feature4Title": "Personlig Matching",
+    "feature4Desc": "Vi kobler deg med den perfekte følgesvenn basert på dine preferanser",
+    "feature5Title": "Lokal Innsider-Tilgang",
+    "feature5Desc": "Opplev Colombia som en VIP-lokal, ikke som turist",
+    "feature6Title": "Altinkluderende Service",
+    "feature6Desc": "Transport, overnatting, opplevelser og selskap — håndtert"
+  },
+  "moments": {
+    "title1": "Øyeblikk Du Aldri",
+    "title2": "Vil Glemme",
+    "moment1Title": "Private Yacht-Solnedganger",
+    "moment1Desc": "Karibisk luksus med din følgesvenn, champagne og endeløse havutsikter",
+    "moment2Title": "Takterrasse-Feiringer",
+    "moment2Desc": "Bylys, cocktailer og det perfekte selskapet med utsikt over Bogotá eller Medellín",
+    "moment3Title": "Dans Natten Bort",
+    "moment3Desc": "VIP-tilgang til Colombias heteste klubber med din vakre følgesvenn",
+    "moment4Title": "Karibisk Paradis",
+    "moment4Desc": "Private strender, varm sand, krystallklart vann og intime øyeblikk"
+  },
+  "destinations": {
+    "title1": "Fire Destinasjoner,",
+    "title2": "Uendelig Nytelse",
+    "subtitle": "Hver by tilbyr unike opplevelser med din perfekte følgesvenn",
+    "bogota": {
+      "badge": "URBAN SOFISTIKERING",
+      "title": "Bogotá",
+      "subtitle": "Penthouse-netter og kulturell eleganse",
+      "description": "Takterrasse-lounger med panoramautsikt over Andesfjellene, verdensklasse mat, eksklusiv kunstscene og sofistikert natteliv med din vakre følgesvenn."
+    },
+    "medellin": {
+      "badge": "EVIG VÅR",
+      "title": "Medellín",
+      "subtitle": "Villa-liv og levende energi",
+      "description": "Private infinitybassenger, luksusvillaer, Colombias vakreste kvinner og legendarisk natteliv i den evige vårens by."
+    },
+    "cartagena": {
+      "badge": "KARIBISK ROMANTIKK",
+      "title": "Cartagena",
+      "subtitle": "Kolonial sjarm møter karibisk sensualitet",
+      "description": "Private yachter, levende lys-middager i historiske palasser, strandklubber og romantiske turer med din følgesvenn gjennom brosteinsbelagte gater."
+    },
+    "santamarta": {
+      "badge": "TROPISK PARADIS",
+      "title": "Santa Marta & Tayrona",
+      "subtitle": "Private strender og jungel-luksus",
+      "description": "Øko-luksuslodger, urørte strender, jungeleventyr og intime flukter med din følgesvenn i paradis."
+    }
+  },
+  "whoFor": {
+    "title1": "For Mannen Som",
+    "title2": "Vet Hva Han Vil Ha",
+    "description": "OROMA er for vellykkede internasjonale menn som setter pris på skjønnhet, sofistikering og ekte forbindelse. Du har jobbet hardt — du fortjener en ekstraordinær opplevelse.",
+    "quality1": "Internasjonale gründere og ledere som søker eventyr",
+    "quality2": "Menn som verdsetter vakkert selskap og kulturelle opplevelser",
+    "quality3": "De som søker diskresjon, sikkerhet og premium service",
+    "quality4": "Reisende som vil ha den komplette luksusopplevelsen",
+    "quote": "Dette er ikke turisme.<br />Dette er Colombia-opplevelsen du har søkt etter."
+  },
+  "apply": {
+    "title1": "Klar Til Å Oppleve",
+    "title2": "Colombia?",
+    "subtitle": "Begrenset tilgjengelighet. Eksklusiv service. Fullfør søknaden din for å begynne.",
+    "labelName": "Fullt Navn",
+    "labelEmail": "E-postadresse",
+    "labelCountry": "Bostedsland",
+    "labelDates": "Reisedatoer",
+    "labelCities": "Foretrukne Destinasjoner",
+    "labelExperience": "Hva ser du etter?",
+    "placeholderCountry": "f.eks. Norge, Sverige, Danmark",
+    "placeholderDates": "f.eks. 15.-22. mars 2025",
+    "placeholderCities": "f.eks. Medellín, Cartagena",
+    "placeholderExperience": "Fortell oss om din ideelle opplevelse: følgesvenn-preferanser, aktiviteter, natteliv, avslapning...",
+    "submit": "Send Inn Søknad",
+    "disclaimer": "Vi gjennomgår alle søknader personlig og svarer innen 48 timer"
+  },
+  "footer": {
+    "tagline": "Luksus-Selskaps-Opplevelser i Colombia",
+    "copyright": "© 2025 OROMA. Diskret. Privat. Uforglemmelig.",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "contact": "Kontakt"
+  }
+}

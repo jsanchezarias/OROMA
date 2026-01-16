@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "experiences": "Erlebnisse",
+    "hosts": "Ihre Gastgeberinnen",
+    "packages": "Pakete",
+    "howItWorks": "So Funktioniert Es",
+    "destinations": "Reiseziele",
+    "apply": "Bewerben",
+    "begin": "Beginnen Sie Ihre Reise"
+  },
+  "hero": {
+    "badge": "LUXUS • BEGLEITUNG • UNVERGESSLICH",
+    "title1": "Erleben Sie Kolumbien",
+    "title2": "Mit Perfekter Gesellschaft",
+    "subtitle": "Kuratierte Luxuserlebnisse gepaart mit atemberaubenden lokalen Begleiterinnen, die Kolumbien intimst kennen.",
+    "description": "Schöne, kultivierte Gastgeberinnen • Private Villen • Exklusiver Zugang • Intime Momente • Keine Menschenmassen, nur Verbindung.",
+    "cta1": "Starten Sie Ihre Reise",
+    "cta2": "Treffen Sie Ihre Gastgeberinnen"
+  },
+  "difference": {
+    "title1": "Mehr Als Reisen,",
+    "title2": "Ein Komplettes Erlebnis",
+    "description": "OROMA verbindet internationale Reisende mit atemberaubenden kolumbianischen Begleiterinnen, die authentische lokale Expertise, Kultiviertheit und echte Verbindung während Ihrer gesamten Reise bieten.",
+    "feature1Title": "Schöne Lokale Gastgeberinnen",
+    "feature1Desc": "Kultivierte Begleiterinnen, die Kolumbien wirklich kennen",
+    "feature2Title": "Komplette Begleitung",
+    "feature2Desc": "Vom Abendessen über Nachtleben bis zu privaten Momenten",
+    "feature3Title": "Luxuserlebnisse",
+    "feature3Desc": "Private Villen, Dachterrassen, exklusive Veranstaltungsorte",
+    "feature4Title": "Diskretion Garantiert",
+    "feature4Desc": "Privat, sicher und vollständig vertraulich"
+  },
+  "companions": {
+    "title1": "Ihre Perfekten",
+    "title2": "Kolumbianischen Begleiterinnen",
+    "subtitle": "Schön, intelligent und kultiviert — unsere sorgfältig ausgewählten Gastgeberinnen sind Kolumbiens Beste. Sie zeigen Ihnen das Land aus lokaler Perspektive, mit Wärme, Charme und echter Verbindung.",
+    "category1Title": "NACHTLEBEN-SPEZIALISTINNEN",
+    "category1Desc": "Ihr Guide zu Kolumbiens exklusivsten Dachterrassen, Clubs und After-Hours-Erlebnissen",
+    "category2Title": "KULTUR-GUIDES",
+    "category2Desc": "Kultivierte Begleiterinnen für gehobene Gastronomie, Kunstgalerien und kulturelle Erlebnisse",
+    "category3Title": "WELLNESS & ENTSPANNUNG",
+    "category3Desc": "Private Villen-Erlebnisse, Spa-Tage und intime Momente vollkommener Entspannung",
+    "sectionTitle": "Was Unsere Begleiterinnen Besonders Macht",
+    "quality1Title": "Natürliche Kolumbianische Schönheit",
+    "quality1Desc": "Sorgfältig ausgewählt für Eleganz, Charme und echte Herzlichkeit",
+    "quality2Title": "Mehrsprachig & Kultiviert",
+    "quality2Desc": "Fließend Englisch, weltgewandt, gebildet, großartige Gesprächspartnerinnen",
+    "quality3Title": "Lokale Expertise",
+    "quality3Desc": "In Kolumbien geboren und aufgewachsen, kennen sie jeden verborgenen Schatz",
+    "quality4Title": "Absolute Diskretion",
+    "quality4Desc": "Professionell, vertrauenswürdig und vollständig vertraulich"
+  },
+  "package": {
+    "title": "Das Komplette Paket",
+    "subtitle": "Begleitung, Luxus und unvergessliche Erlebnisse — alles für Sie kuratiert.",
+    "feature1Title": "Schöne Begleiterinnen",
+    "feature1Desc": "Atemberaubende lokale Gastgeberinnen, die Wärme, Kultiviertheit und echte Verbindung bieten",
+    "feature2Title": "Sicher & Diskret",
+    "feature2Desc": "Verifizierte Gastgeberinnen, private Unterkünfte, absolute Vertraulichkeit, 24/7 Support",
+    "feature3Title": "Luxuserlebnisse",
+    "feature3Desc": "Private Villen, Dachterrassen-Lounges, exklusive Restaurants, VIP-Nachtleben-Zugang",
+    "feature4Title": "Personalisiertes Matching",
+    "feature4Desc": "Wir verbinden Sie mit der perfekten Begleiterin basierend auf Ihren Präferenzen",
+    "feature5Title": "Lokaler Insider-Zugang",
+    "feature5Desc": "Erleben Sie Kolumbien wie ein VIP-Einheimischer, nicht als Tourist",
+    "feature6Title": "Rundum-Service",
+    "feature6Desc": "Transport, Unterkunft, Erlebnisse und Begleitung — alles organisiert"
+  },
+  "moments": {
+    "title1": "Momente, Die Sie",
+    "title2": "Nie Vergessen Werden",
+    "moment1Title": "Private Yacht-Sonnenuntergänge",
+    "moment1Desc": "Karibischer Luxus mit Ihrer Begleiterin, Champagner und endlose Meerblicke",
+    "moment2Title": "Dachterrassen-Feiern",
+    "moment2Desc": "Stadtlichter, Cocktails und die perfekte Gesellschaft mit Blick auf Bogotá oder Medellín",
+    "moment3Title": "Tanzen Sie Die Nacht Durch",
+    "moment3Desc": "VIP-Zugang zu Kolumbiens angesagtesten Clubs mit Ihrer schönen Begleiterin",
+    "moment4Title": "Karibisches Paradies",
+    "moment4Desc": "Privatstrände, warmer Sand, kristallklares Wasser und intime Momente"
+  },
+  "destinations": {
+    "title1": "Vier Reiseziele,",
+    "title2": "Unendliches Vergnügen",
+    "subtitle": "Jede Stadt bietet einzigartige Erlebnisse mit Ihrer perfekten Begleiterin",
+    "bogota": {
+      "badge": "URBANE KULTIVIERTHEIT",
+      "title": "Bogotá",
+      "subtitle": "Penthouse-Nächte und kulturelle Eleganz",
+      "description": "Dachterrassen-Lounges mit Panoramablick auf die Anden, Weltklasse-Gastronomie, exklusive Kunstszene und kultiviertes Nachtleben mit Ihrer schönen Begleiterin."
+    },
+    "medellin": {
+      "badge": "EWIGER FRÜHLING",
+      "title": "Medellín",
+      "subtitle": "Villen-Leben und vibrierende Energie",
+      "description": "Private Infinity-Pools, Luxusvillen, Kolumbiens schönste Frauen und legendäres Nachtleben in der Stadt des ewigen Frühlings."
+    },
+    "cartagena": {
+      "badge": "KARIBISCHE ROMANTIK",
+      "title": "Cartagena",
+      "subtitle": "Kolonialer Charme trifft karibische Sinnlichkeit",
+      "description": "Private Yachten, Kerzenlicht-Dinner in historischen Palästen, Beach Clubs und romantische Spaziergänge mit Ihrer Begleiterin durch Kopfsteinpflasterstraßen."
+    },
+    "santamarta": {
+      "badge": "TROPISCHES PARADIES",
+      "title": "Santa Marta & Tayrona",
+      "subtitle": "Privatstrände und Dschungel-Luxus",
+      "description": "Öko-Luxus-Lodges, unberührte Strände, Dschungelabenteuer und intime Fluchten mit Ihrer Begleiterin im Paradies."
+    }
+  },
+  "whoFor": {
+    "title1": "Für Den Mann, Der",
+    "title2": "Weiß, Was Er Will",
+    "description": "OROMA ist für erfolgreiche internationale Männer, die Schönheit, Kultiviertheit und echte Verbindung schätzen. Sie haben hart gearbeitet — Sie verdienen ein außergewöhnliches Erlebnis.",
+    "quality1": "Internationale Unternehmer und Führungskräfte auf der Suche nach Abenteuer",
+    "quality2": "Männer, die schöne Begleitung und kulturelle Erlebnisse schätzen",
+    "quality3": "Diejenigen, die Diskretion, Sicherheit und Premium-Service suchen",
+    "quality4": "Reisende, die das komplette Luxuserlebnis wollen",
+    "quote": "Das ist kein Tourismus.<br />Das ist das Kolumbien-Erlebnis, nach dem Sie gesucht haben."
+  },
+  "apply": {
+    "title1": "Bereit, Kolumbien Zu",
+    "title2": "Erleben?",
+    "subtitle": "Begrenzte Verfügbarkeit. Exklusiver Service. Vervollständigen Sie Ihre Bewerbung, um zu beginnen.",
+    "labelName": "Vollständiger Name",
+    "labelEmail": "E-Mail-Adresse",
+    "labelCountry": "Wohnsitzland",
+    "labelDates": "Reisedaten",
+    "labelCities": "Bevorzugte Reiseziele",
+    "labelExperience": "Wonach suchen Sie?",
+    "placeholderCountry": "z.B. Deutschland, Schweiz, Österreich",
+    "placeholderDates": "z.B. 15.-22. März 2025",
+    "placeholderCities": "z.B. Medellín, Cartagena",
+    "placeholderExperience": "Erzählen Sie uns von Ihrem idealen Erlebnis: Begleitungspräferenzen, Aktivitäten, Nachtleben, Entspannung...",
+    "submit": "Bewerbung Einreichen",
+    "disclaimer": "Wir prüfen alle Bewerbungen persönlich und antworten innerhalb von 48 Stunden"
+  },
+  "footer": {
+    "tagline": "Luxus-Begleitungs-Erlebnisse in Kolumbien",
+    "copyright": "© 2025 OROMA. Diskret. Privat. Unvergesslich.",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "contact": "Kontakt"
+  }
+}

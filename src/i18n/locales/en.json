@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "experiences": "Experiences",
+    "hosts": "Your Hosts",
+    "packages": "Packages",
+    "howItWorks": "How It Works",
+    "destinations": "Destinations",
+    "apply": "Apply",
+    "begin": "Begin Your Journey"
+  },
+  "hero": {
+    "badge": "LUXURY • COMPANIONSHIP • UNFORGETTABLE",
+    "title1": "Experience Colombia",
+    "title2": "With Perfect Company",
+    "subtitle": "Curated luxury experiences paired with stunning local companions who know Colombia intimately.",
+    "description": "Beautiful, sophisticated hosts • Private villas • Exclusive access • Intimate moments • No crowds, just connection.",
+    "cta1": "Start Your Journey",
+    "cta2": "Meet Your Hosts"
+  },
+  "difference": {
+    "title1": "More Than Travel,",
+    "title2": "A Complete Experience",
+    "description": "OROMA pairs international travelers with stunning Colombian companions who provide authentic local expertise, sophistication, and genuine connection throughout your journey.",
+    "feature1Title": "Beautiful Local Hosts",
+    "feature1Desc": "Sophisticated companions who truly know Colombia",
+    "feature2Title": "Complete Companionship",
+    "feature2Desc": "From dinner to nightlife to private moments",
+    "feature3Title": "Luxury Experiences",
+    "feature3Desc": "Private villas, rooftop gatherings, exclusive venues",
+    "feature4Title": "Discretion Guaranteed",
+    "feature4Desc": "Private, safe, and completely confidential"
+  },
+  "companions": {
+    "title1": "Your Perfect",
+    "title2": "Colombian Companions",
+    "subtitle": "Beautiful, intelligent, and sophisticated — our carefully selected hosts are Colombia's finest. They'll show you the country through local eyes, with warmth, charm, and genuine connection.",
+    "category1Title": "NIGHTLIFE SPECIALISTS",
+    "category1Desc": "Your guide to Colombia's most exclusive rooftops, clubs, and after-hours experiences",
+    "category2Title": "CULTURAL GUIDES",
+    "category2Desc": "Sophisticated companions for fine dining, art galleries, and cultural experiences",
+    "category3Title": "WELLNESS & RELAXATION",
+    "category3Desc": "Private villa experiences, spa days, and intimate moments of complete relaxation",
+    "sectionTitle": "What Makes Our Companions Special",
+    "quality1Title": "Natural Colombian Beauty",
+    "quality1Desc": "Carefully selected for elegance, charm, and genuine warmth",
+    "quality2Title": "Multilingual & Cultured",
+    "quality2Desc": "Fluent in English, worldly, educated, great conversationalists",
+    "quality3Title": "Local Expertise",
+    "quality3Desc": "Born and raised in Colombia, they know every hidden gem",
+    "quality4Title": "Complete Discretion",
+    "quality4Desc": "Professional, trustworthy, and completely confidential"
+  },
+  "package": {
+    "title": "The Complete Package",
+    "subtitle": "Companionship, luxury, and unforgettable experiences — all curated for you.",
+    "feature1Title": "Beautiful Companions",
+    "feature1Desc": "Stunning local hosts who provide warmth, sophistication, and genuine connection",
+    "feature2Title": "Safe & Discreet",
+    "feature2Desc": "Verified hosts, private accommodations, complete confidentiality, 24/7 support",
+    "feature3Title": "Luxury Experiences",
+    "feature3Desc": "Private villas, rooftop lounges, exclusive restaurants, VIP nightlife access",
+    "feature4Title": "Personalized Matching",
+    "feature4Desc": "We pair you with the perfect companion based on your preferences",
+    "feature5Title": "Local Insider Access",
+    "feature5Desc": "Experience Colombia like a VIP local, not a tourist",
+    "feature6Title": "All-Inclusive Service",
+    "feature6Desc": "Transportation, accommodations, experiences, and companionship — handled"
+  },
+  "moments": {
+    "title1": "Moments You'll",
+    "title2": "Never Forget",
+    "moment1Title": "Private Yacht Sunsets",
+    "moment1Desc": "Caribbean luxury with your companion, champagne, and endless ocean views",
+    "moment2Title": "Rooftop Celebrations",
+    "moment2Desc": "City lights, cocktails, and the perfect company overlooking Bogotá or Medellín",
+    "moment3Title": "Dance the Night Away",
+    "moment3Desc": "VIP access to Colombia's hottest clubs with your beautiful companion",
+    "moment4Title": "Caribbean Paradise",
+    "moment4Desc": "Private beaches, warm sand, crystal waters, and intimate moments"
+  },
+  "destinations": {
+    "title1": "Four Destinations,",
+    "title2": "Infinite Pleasure",
+    "subtitle": "Each city offers unique experiences with your perfect companion",
+    "bogota": {
+      "badge": "URBAN SOPHISTICATION",
+      "title": "Bogotá",
+      "subtitle": "Penthouse nights and cultural elegance",
+      "description": "Rooftop lounges with panoramic Andes views, world-class dining, exclusive art scene, and sophisticated nightlife with your beautiful companion."
+    },
+    "medellin": {
+      "badge": "ETERNAL SPRING",
+      "title": "Medellín",
+      "subtitle": "Villa living and vibrant energy",
+      "description": "Private infinity pools, luxury villas, Colombia's most beautiful women, and legendary nightlife in the city of eternal spring."
+    },
+    "cartagena": {
+      "badge": "CARIBBEAN ROMANCE",
+      "title": "Cartagena",
+      "subtitle": "Colonial charm meets Caribbean sensuality",
+      "description": "Private yachts, candlelit dinners in historic palaces, beach clubs, and romantic walks with your companion through cobblestone streets."
+    },
+    "santamarta": {
+      "badge": "TROPICAL PARADISE",
+      "title": "Santa Marta & Tayrona",
+      "subtitle": "Private beaches and jungle luxury",
+      "description": "Eco-luxury lodges, pristine beaches, jungle adventures, and intimate escapes with your companion in paradise."
+    }
+  },
+  "whoFor": {
+    "title1": "For the Man Who",
+    "title2": "Knows What He Wants",
+    "description": "OROMA is for successful international men who appreciate beauty, sophistication, and genuine connection. You've worked hard — you deserve an extraordinary experience.",
+    "quality1": "International entrepreneurs and executives seeking adventure",
+    "quality2": "Men who value beautiful companionship and cultural experiences",
+    "quality3": "Those seeking discretion, safety, and premium service",
+    "quality4": "Travelers who want the complete luxury experience",
+    "quote": "This isn't tourism.<br />This is the Colombia experience you've been searching for."
+  },
+  "apply": {
+    "title1": "Ready to Experience",
+    "title2": "Colombia?",
+    "subtitle": "Limited availability. Exclusive service. Complete your application to begin.",
+    "labelName": "Full Name",
+    "labelEmail": "Email Address",
+    "labelCountry": "Country of Residence",
+    "labelDates": "Travel Dates",
+    "labelCities": "Preferred Destinations",
+    "labelExperience": "What are you looking for?",
+    "placeholderCountry": "e.g., United States, Australia, Germany",
+    "placeholderDates": "e.g., March 15-22, 2025",
+    "placeholderCities": "e.g., Medellín, Cartagena",
+    "placeholderExperience": "Tell us about your ideal experience: companionship preferences, activities, nightlife, relaxation...",
+    "submit": "Submit Application",
+    "disclaimer": "We review all applications personally and respond within 48 hours",
+    "successMessage": "Thank you for your application! We will be in touch within 48 hours."
+  },
+  "footer": {
+    "tagline": "Luxury Companionship Experiences in Colombia",
+    "copyright": "© 2025 OROMA. Discreet. Private. Unforgettable.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  }
+}

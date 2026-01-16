@@ -1,0 +1,146 @@
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --font-size: 16px;
+  --background: #FAF8F5;
+  --foreground: #2D2520;
+  --card: #F5F1EA;
+  --card-foreground: #2D2520;
+  --popover: #F5F1EA;
+  --popover-foreground: #2D2520;
+  --primary: #D4735E;
+  --primary-foreground: #FAF8F5;
+  --secondary: #8B9E8A;
+  --secondary-foreground: #FAF8F5;
+  --muted: #E5DED5;
+  --muted-foreground: #6B5D54;
+  --accent: #C9A78A;
+  --accent-foreground: #2D2520;
+  --destructive: #C84C3C;
+  --destructive-foreground: #FAF8F5;
+  --border: rgba(212, 115, 94, 0.2);
+  --input: rgba(212, 115, 94, 0.1);
+  --input-background: #F5F1EA;
+  --switch-background: #E5DED5;
+  --font-weight-medium: 500;
+  --font-weight-normal: 400;
+  --ring: #D4735E;
+  --chart-1: #D4735E;
+  --chart-2: #C9A78A;
+  --chart-3: #8B9E8A;
+  --chart-4: #A67B5B;
+  --chart-5: #E8B4A0;
+  --radius: 0.75rem;
+  --sidebar: #FAF8F5;
+  --sidebar-foreground: #2D2520;
+  --sidebar-primary: #D4735E;
+  --sidebar-primary-foreground: #FAF8F5;
+  --sidebar-accent: #F5F1EA;
+  --sidebar-accent-foreground: #2D2520;
+  --sidebar-border: rgba(212, 115, 94, 0.2);
+  --sidebar-ring: #D4735E;
+}
+
+/* Custom Scrollbar Styles */
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.3);
+  border-radius: 4px;
+}
+
+.scrollbar-thin:hover::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.5);
+}
+
+.scrollbar-thumb-primary\/30::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.3);
+}
+
+.scrollbar-thumb-primary\/50::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.5);
+}
+
+.scrollbar-track-transparent::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Smooth scroll behavior */
+.overflow-x-auto {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+    outline-color: var(--ring);
+    outline-width: 0;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+
+  /**
+  * Default typography styles for HTML elements (h1-h4, p, label, button, input).
+  * These are in @layer base, so Tailwind utility classes (like text-sm, text-lg) automatically override them.
+  */
+
+  html {
+    font-size: var(--font-size);
+    scroll-behavior: smooth;
+  }
+
+  h1 {
+    font-size: var(--text-2xl);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: var(--text-xl);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h3 {
+    font-size: var(--text-lg);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h4 {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  label {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  button {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  input {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-normal);
+    line-height: 1.5;
+  }
+}

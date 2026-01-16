@@ -1,0 +1,115 @@
+/* Animaciones personalizadas para Black Diamond Studios */
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes glow-pulse {
+  0%, 100% {
+    opacity: 0.6;
+    filter: blur(40px);
+  }
+  50% {
+    opacity: 1;
+    filter: blur(60px);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes diamond-shine {
+  0%, 100% {
+    opacity: 0.3;
+    transform: translateX(-100%) rotate(-45deg);
+  }
+  50% {
+    opacity: 0.8;
+    transform: translateX(100%) rotate(-45deg);
+  }
+}
+
+/* Clases de utilidad */
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse 4s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  animation: shimmer 3s linear infinite;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%
+  );
+  background-size: 1000px 100%;
+}
+
+.animate-diamond-shine {
+  animation: diamond-shine 8s ease-in-out infinite;
+}
+
+/* Gradientes radiales personalizados */
+.bg-gradient-radial {
+  background: radial-gradient(circle, var(--tw-gradient-stops));
+}
+
+/* Efecto de diamante brillante */
+.diamond-glow {
+  position: relative;
+  overflow: hidden;
+}
+
+.diamond-glow::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    transparent 30%,
+    rgba(255, 255, 255, 0.3) 50%,
+    transparent 70%
+  );
+  animation: diamond-shine 8s ease-in-out infinite;
+}
+
+/* Texto con efecto de brillo */
+.text-glow {
+  text-shadow: 
+    0 0 10px rgba(255, 255, 255, 0.3),
+    0 0 20px rgba(255, 255, 255, 0.2),
+    0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+.text-gold-glow {
+  text-shadow: 
+    0 0 10px rgba(212, 175, 55, 0.5),
+    0 0 20px rgba(212, 175, 55, 0.3),
+    0 0 30px rgba(212, 175, 55, 0.2);
+}
+
+/* Bordes brillantes */
+.border-glow {
+  box-shadow: 
+    0 0 10px rgba(212, 175, 55, 0.2),
+    0 0 20px rgba(212, 175, 55, 0.1),
+    inset 0 0 10px rgba(212, 175, 55, 0.05);
+}

@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "experiences": "Ervaringen",
+    "hosts": "Uw Gastvrouwen",
+    "packages": "Pakketten",
+    "howItWorks": "Hoe Het Werkt",
+    "destinations": "Bestemmingen",
+    "apply": "Aanmelden",
+    "begin": "Begin Uw Reis"
+  },
+  "hero": {
+    "badge": "LUXE • GEZELSCHAP • ONVERGETELIJK",
+    "title1": "Ervaar Colombia",
+    "title2": "Met Perfect Gezelschap",
+    "subtitle": "Gecureerde luxe-ervaringen gecombineerd met prachtige lokale gezellinnen die Colombia intiem kennen.",
+    "description": "Mooie, verfijnde gastvrouwen • Privévilla's • Exclusieve toegang • Intieme momenten • Geen drukte, alleen verbinding.",
+    "cta1": "Start Uw Reis",
+    "cta2": "Ontmoet Uw Gastvrouwen"
+  },
+  "difference": {
+    "title1": "Meer Dan Reizen,",
+    "title2": "Een Compleet Avontuur",
+    "description": "OROMA koppelt internationale reizigers aan prachtige Colombiaanse gezellinnen die authentieke lokale expertise, verfijning en echte verbinding bieden tijdens uw hele reis.",
+    "feature1Title": "Mooie Lokale Gastvrouwen",
+    "feature1Desc": "Verfijnde gezellinnen die Colombia echt kennen",
+    "feature2Title": "Compleet Gezelschap",
+    "feature2Desc": "Van diner tot nachtleven tot privémomenten",
+    "feature3Title": "Luxe-Ervaringen",
+    "feature3Desc": "Privévilla's, dakterrassen, exclusieve locaties",
+    "feature4Title": "Discretie Gegarandeerd",
+    "feature4Desc": "Privé, veilig en volledig vertrouwelijk"
+  },
+  "companions": {
+    "title1": "Uw Perfecte",
+    "title2": "Colombiaanse Gezellinnen",
+    "subtitle": "Mooi, intelligent en verfijnd — onze zorgvuldig geselecteerde gastvrouwen zijn Colombia's beste. Ze laten u het land zien door lokale ogen, met warmte, charme en echte verbinding.",
+    "category1Title": "NACHTLEVEN-SPECIALISTEN",
+    "category1Desc": "Uw gids naar Colombia's meest exclusieve dakterrassen, clubs en after-hours ervaringen",
+    "category2Title": "CULTUUR-GIDSEN",
+    "category2Desc": "Verfijnde gezellinnen voor gastronomisch dineren, kunstgalerijen en culturele ervaringen",
+    "category3Title": "WELLNESS & ONTSPANNING",
+    "category3Desc": "Privévilla-ervaringen, spa-dagen en intieme momenten van complete ontspanning",
+    "sectionTitle": "Wat Onze Gezellinnen Speciaal Maakt",
+    "quality1Title": "Natuurlijke Colombiaanse Schoonheid",
+    "quality1Desc": "Zorgvuldig geselecteerd voor elegantie, charme en oprechte warmte",
+    "quality2Title": "Meertalig & Gecultiveerd",
+    "quality2Desc": "Vloeiend Engels, wereldwijs, hoogopgeleid, geweldige gesprekspartners",
+    "quality3Title": "Lokale Expertise",
+    "quality3Desc": "Geboren en getogen in Colombia, kennen ze elk verborgen juweeltje",
+    "quality4Title": "Volledige Discretie",
+    "quality4Desc": "Professioneel, betrouwbaar en volledig vertrouwelijk"
+  },
+  "package": {
+    "title": "Het Complete Pakket",
+    "subtitle": "Gezelschap, luxe en onvergetelijke ervaringen — allemaal voor u gecureerd.",
+    "feature1Title": "Mooie Gezellinnen",
+    "feature1Desc": "Prachtige lokale gastvrouwen die warmte, verfijning en echte verbinding bieden",
+    "feature2Title": "Veilig & Discreet",
+    "feature2Desc": "Geverifieerde gastvrouwen, privéaccommodaties, volledige vertrouwelijkheid, 24/7 ondersteuning",
+    "feature3Title": "Luxe-Ervaringen",
+    "feature3Desc": "Privévilla's, dakterras-lounges, exclusieve restaurants, VIP nachtleven-toegang",
+    "feature4Title": "Persoonlijke Matching",
+    "feature4Desc": "We koppelen u aan de perfecte gezellin op basis van uw voorkeuren",
+    "feature5Title": "Lokale Insider-Toegang",
+    "feature5Desc": "Ervaar Colombia als een VIP-local, niet als toerist",
+    "feature6Title": "All-Inclusive Service",
+    "feature6Desc": "Vervoer, accommodatie, ervaringen en gezelschap — geregeld"
+  },
+  "moments": {
+    "title1": "Momenten Die U",
+    "title2": "Nooit Vergeet",
+    "moment1Title": "Privé Yacht-Zonsondergangen",
+    "moment1Desc": "Caribische luxe met uw gezellin, champagne en eindeloze oceaanzichten",
+    "moment2Title": "Dakterras-Feesten",
+    "moment2Desc": "Stadslichten, cocktails en het perfecte gezelschap met uitzicht op Bogotá of Medellín",
+    "moment3Title": "Dans De Nacht Weg",
+    "moment3Desc": "VIP-toegang tot Colombia's hipste clubs met uw mooie gezellin",
+    "moment4Title": "Caribisch Paradijs",
+    "moment4Desc": "Privéstranden, warm zand, kristalhelder water en intieme momenten"
+  },
+  "destinations": {
+    "title1": "Vier Bestemmingen,",
+    "title2": "Oneindig Plezier",
+    "subtitle": "Elke stad biedt unieke ervaringen met uw perfecte gezellin",
+    "bogota": {
+      "badge": "URBANE VERFIJNING",
+      "title": "Bogotá",
+      "subtitle": "Penthouse-nachten en culturele elegantie",
+      "description": "Dakterras-lounges met panoramisch uitzicht op de Andes, wereldklasse dineren, exclusieve kunstscene en verfijnd nachtleven met uw mooie gezellin."
+    },
+    "medellin": {
+      "badge": "EEUWIGE LENTE",
+      "title": "Medellín",
+      "subtitle": "Villa-leven en levendige energie",
+      "description": "Privé infinity pools, luxevilla's, Colombia's mooiste vrouwen en legendarisch nachtleven in de stad van de eeuwige lente."
+    },
+    "cartagena": {
+      "badge": "CARIBISCHE ROMANTIEK",
+      "title": "Cartagena",
+      "subtitle": "Koloniale charme ontmoet Caribische sensualiteit",
+      "description": "Privéjachten, kaarslichtdiners in historische paleizen, strandclubs en romantische wandelingen met uw gezellin door geplaveide straten."
+    },
+    "santamarta": {
+      "badge": "TROPISCH PARADIJS",
+      "title": "Santa Marta & Tayrona",
+      "subtitle": "Privéstranden en jungle-luxe",
+      "description": "Eco-luxe lodges, ongerepte stranden, jungle-avonturen en intieme ontsnappingen met uw gezellin in het paradijs."
+    }
+  },
+  "whoFor": {
+    "title1": "Voor De Man Die",
+    "title2": "Weet Wat Hij Wil",
+    "description": "OROMA is voor succesvolle internationale mannen die schoonheid, verfijning en echte verbinding waarderen. U heeft hard gewerkt — u verdient een buitengewone ervaring.",
+    "quality1": "Internationale ondernemers en leidinggevenden die avontuur zoeken",
+    "quality2": "Mannen die mooi gezelschap en culturele ervaringen waarderen",
+    "quality3": "Degenen die discretie, veiligheid en premium service zoeken",
+    "quality4": "Reizigers die de complete luxe-ervaring willen",
+    "quote": "Dit is geen toerisme.<br />Dit is de Colombia-ervaring waar u naar op zoek bent."
+  },
+  "apply": {
+    "title1": "Klaar Om Colombia Te",
+    "title2": "Ervaren?",
+    "subtitle": "Beperkte beschikbaarheid. Exclusieve service. Voltooi uw aanmelding om te beginnen.",
+    "labelName": "Volledige Naam",
+    "labelEmail": "E-mailadres",
+    "labelCountry": "Land van Verblijf",
+    "labelDates": "Reisdata",
+    "labelCities": "Voorkeursbestemmingen",
+    "labelExperience": "Waar bent u naar op zoek?",
+    "placeholderCountry": "bijv. Nederland, België, Zwitserland",
+    "placeholderDates": "bijv. 15-22 maart 2025",
+    "placeholderCities": "bijv. Medellín, Cartagena",
+    "placeholderExperience": "Vertel ons over uw ideale ervaring: gezellin-voorkeuren, activiteiten, nachtleven, ontspanning...",
+    "submit": "Aanmelding Verzenden",
+    "disclaimer": "We beoordelen alle aanmeldingen persoonlijk en reageren binnen 48 uur"
+  },
+  "footer": {
+    "tagline": "Luxe-Gezelschaps-Ervaringen in Colombia",
+    "copyright": "© 2025 OROMA. Discreet. Privé. Onvergetelijk.",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "contact": "Contact"
+  }
+}

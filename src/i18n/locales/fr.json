@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "experiences": "Expériences",
+    "hosts": "Vos Hôtesses",
+    "packages": "Forfaits",
+    "howItWorks": "Comment Ça Marche",
+    "destinations": "Destinations",
+    "apply": "Postuler",
+    "begin": "Commencez Votre Voyage"
+  },
+  "hero": {
+    "badge": "LUXE • COMPAGNIE • INOUBLIABLE",
+    "title1": "Découvrez la Colombie",
+    "title2": "Avec une Compagnie Parfaite",
+    "subtitle": "Des expériences de luxe soigneusement sélectionnées avec de superbes compagnes locales qui connaissent intimement la Colombie.",
+    "description": "Hôtesses belles et sophistiquées • Villas privées • Accès exclusif • Moments intimes • Pas de foule, juste de la connexion.",
+    "cta1": "Commencez Votre Voyage",
+    "cta2": "Rencontrez Vos Hôtesses"
+  },
+  "difference": {
+    "title1": "Plus Qu'un Voyage,",
+    "title2": "Une Expérience Complète",
+    "description": "OROMA associe les voyageurs internationaux à de superbes compagnes colombiennes qui offrent une expertise locale authentique, du raffinement et une connexion authentique tout au long de votre voyage.",
+    "feature1Title": "Belles Hôtesses Locales",
+    "feature1Desc": "Compagnes sophistiquées qui connaissent vraiment la Colombie",
+    "feature2Title": "Compagnie Complète",
+    "feature2Desc": "Du dîner à la vie nocturne jusqu'aux moments privés",
+    "feature3Title": "Expériences de Luxe",
+    "feature3Desc": "Villas privées, toits-terrasses, lieux exclusifs",
+    "feature4Title": "Discrétion Garantie",
+    "feature4Desc": "Privé, sûr et entièrement confidentiel"
+  },
+  "companions": {
+    "title1": "Vos Parfaites",
+    "title2": "Compagnes Colombiennes",
+    "subtitle": "Belles, intelligentes et sophistiquées — nos hôtesses soigneusement sélectionnées sont l'élite de la Colombie. Elles vous montreront le pays à travers des yeux locaux, avec chaleur, charme et connexion authentique.",
+    "category1Title": "SPÉCIALISTES DE LA VIE NOCTURNE",
+    "category1Desc": "Votre guide vers les toits-terrasses, clubs et expériences après-heures les plus exclusifs de Colombie",
+    "category2Title": "GUIDES CULTURELS",
+    "category2Desc": "Compagnes sophistiquées pour les dîners gastronomiques, galeries d'art et expériences culturelles",
+    "category3Title": "BIEN-ÊTRE & DÉTENTE",
+    "category3Desc": "Expériences en villa privée, journées spa et moments intimes de détente complète",
+    "sectionTitle": "Ce Qui Rend Nos Compagnes Spéciales",
+    "quality1Title": "Beauté Colombienne Naturelle",
+    "quality1Desc": "Soigneusement sélectionnées pour l'élégance, le charme et la chaleur authentique",
+    "quality2Title": "Multilingues & Cultivées",
+    "quality2Desc": "Anglais courant, cosmopolites, éduquées, excellentes conversatrices",
+    "quality3Title": "Expertise Locale",
+    "quality3Desc": "Nées et élevées en Colombie, elles connaissent chaque joyau caché",
+    "quality4Title": "Discrétion Complète",
+    "quality4Desc": "Professionnelles, fiables et entièrement confidentielles"
+  },
+  "package": {
+    "title": "Le Forfait Complet",
+    "subtitle": "Compagnie, luxe et expériences inoubliables — tout soigneusement sélectionné pour vous.",
+    "feature1Title": "Belles Compagnes",
+    "feature1Desc": "Superbes hôtesses locales qui offrent chaleur, raffinement et connexion authentique",
+    "feature2Title": "Sûr & Discret",
+    "feature2Desc": "Hôtesses vérifiées, hébergements privés, confidentialité complète, support 24/7",
+    "feature3Title": "Expériences de Luxe",
+    "feature3Desc": "Villas privées, salons sur toits-terrasses, restaurants exclusifs, accès VIP à la vie nocturne",
+    "feature4Title": "Jumelage Personnalisé",
+    "feature4Desc": "Nous vous associons à la compagne parfaite selon vos préférences",
+    "feature5Title": "Accès Privilégié Local",
+    "feature5Desc": "Vivez la Colombie comme un VIP local, pas comme un touriste",
+    "feature6Title": "Service Tout Compris",
+    "feature6Desc": "Transport, hébergement, expériences et compagnie — tout géré"
+  },
+  "moments": {
+    "title1": "Des Moments Que Vous",
+    "title2": "N'Oublierez Jamais",
+    "moment1Title": "Couchers de Soleil en Yacht Privé",
+    "moment1Desc": "Luxe caribéen avec votre compagne, champagne et vues océaniques infinies",
+    "moment2Title": "Célébrations sur Toit-Terrasse",
+    "moment2Desc": "Lumières de la ville, cocktails et compagnie parfaite surplombant Bogotá ou Medellín",
+    "moment3Title": "Dansez Toute la Nuit",
+    "moment3Desc": "Accès VIP aux clubs les plus branchés de Colombie avec votre belle compagne",
+    "moment4Title": "Paradis Caribéen",
+    "moment4Desc": "Plages privées, sable chaud, eaux cristallines et moments intimes"
+  },
+  "destinations": {
+    "title1": "Quatre Destinations,",
+    "title2": "Plaisir Infini",
+    "subtitle": "Chaque ville offre des expériences uniques avec votre compagne parfaite",
+    "bogota": {
+      "badge": "SOPHISTICATION URBAINE",
+      "title": "Bogotá",
+      "subtitle": "Nuits en penthouse et élégance culturelle",
+      "description": "Salons sur toits-terrasses avec vues panoramiques sur les Andes, gastronomie de classe mondiale, scène artistique exclusive et vie nocturne sophistiquée avec votre belle compagne."
+    },
+    "medellin": {
+      "badge": "PRINTEMPS ÉTERNEL",
+      "title": "Medellín",
+      "subtitle": "Vie en villa et énergie vibrante",
+      "description": "Piscines à débordement privées, villas de luxe, les plus belles femmes de Colombie et vie nocturne légendaire dans la ville du printemps éternel."
+    },
+    "cartagena": {
+      "badge": "ROMANCE CARIBÉENNE",
+      "title": "Cartagena",
+      "subtitle": "Charme colonial rencontre sensualité caribéenne",
+      "description": "Yachts privés, dîners aux chandelles dans des palais historiques, clubs de plage et promenades romantiques avec votre compagne dans les rues pavées."
+    },
+    "santamarta": {
+      "badge": "PARADIS TROPICAL",
+      "title": "Santa Marta & Tayrona",
+      "subtitle": "Plages privées et luxe de jungle",
+      "description": "Éco-lodges de luxe, plages vierges, aventures dans la jungle et escapades intimes avec votre compagne au paradis."
+    }
+  },
+  "whoFor": {
+    "title1": "Pour l'Homme Qui",
+    "title2": "Sait Ce Qu'Il Veut",
+    "description": "OROMA est pour les hommes internationaux prospères qui apprécient la beauté, le raffinement et la connexion authentique. Vous avez travaillé dur — vous méritez une expérience extraordinaire.",
+    "quality1": "Entrepreneurs et cadres internationaux en quête d'aventure",
+    "quality2": "Hommes qui apprécient la belle compagnie et les expériences culturelles",
+    "quality3": "Ceux qui recherchent discrétion, sécurité et service premium",
+    "quality4": "Voyageurs qui veulent l'expérience de luxe complète",
+    "quote": "Ce n'est pas du tourisme.<br />C'est l'expérience colombienne que vous recherchez."
+  },
+  "apply": {
+    "title1": "Prêt à Découvrir",
+    "title2": "La Colombie?",
+    "subtitle": "Disponibilité limitée. Service exclusif. Complétez votre candidature pour commencer.",
+    "labelName": "Nom Complet",
+    "labelEmail": "Adresse E-mail",
+    "labelCountry": "Pays de Résidence",
+    "labelDates": "Dates de Voyage",
+    "labelCities": "Destinations Préférées",
+    "labelExperience": "Que recherchez-vous?",
+    "placeholderCountry": "ex. France, Suisse, Belgique",
+    "placeholderDates": "ex. 15-22 mars 2025",
+    "placeholderCities": "ex. Medellín, Cartagena",
+    "placeholderExperience": "Parlez-nous de votre expérience idéale : préférences de compagnie, activités, vie nocturne, détente...",
+    "submit": "Soumettre la Candidature",
+    "disclaimer": "Nous examinons toutes les candidatures personnellement et répondons dans les 48 heures"
+  },
+  "footer": {
+    "tagline": "Expériences de Compagnie de Luxe en Colombie",
+    "copyright": "© 2025 OROMA. Discret. Privé. Inoubliable.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact"
+  }
+}
